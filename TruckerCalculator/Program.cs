@@ -48,7 +48,7 @@ namespace TruckerCalculator
                     miles += Convert.ToInt32(Console.ReadLine());
                 }
 
-                // the calculation based on the inputs
+                // returns the calculation based on the inputs
                 CalculateResponse(miles, stopNum, pickupTime, dayNum);
                 
             }
