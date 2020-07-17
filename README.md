@@ -1,4 +1,4 @@
-# TruckCalculator-ConsoleApp
+# TruckCalculator
 Console app to calculate the truck delivery time
 
 User enters in Day of Week, Start Time, Number of Stops, and Distance (miles) for each stop  
